@@ -1,6 +1,7 @@
 # EEG-Based-Emotion-Detection
 
 - The project aimed to develop a deep learning model to identify human emotions using brain signals.
+- A classification accuracy of 86% is obtained.
 
   Below given procedure is followed.
 
