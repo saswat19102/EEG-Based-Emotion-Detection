@@ -13,4 +13,7 @@ of a DNN for classification task.
 
 ![image](https://user-images.githubusercontent.com/103813206/182955738-22e5e195-8efb-4a0f-a888-fc4fb9a76654.png)
 
+### Link to Dataset
+https://www.eecs.qmul.ac.uk/mmv/datasets/deap/
+
 
