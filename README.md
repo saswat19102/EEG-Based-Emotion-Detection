@@ -16,4 +16,7 @@ of a DNN for classification task.
 ### Link to Dataset
 https://www.eecs.qmul.ac.uk/mmv/datasets/deap/
 
+### Link to Paper followed
+https://www.frontiersin.org/articles/10.3389/fnsys.2020.00043/full
+
 
