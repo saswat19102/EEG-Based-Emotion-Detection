@@ -6,7 +6,8 @@
 (CNN), Sparse Autoencoder (SAE), and Deep Neural Network (DNN) in our model. The features extracted by the CNN are first sent to SAE for encoding
 and decoding. Then the data with reduced redundancy are used as the input features
 of a DNN for classification task. 
--A classification accuracy of 86% is obtained.
+
+- A classification accuracy of 86% is obtained.
 
   Below is the general procedure followed.
 
